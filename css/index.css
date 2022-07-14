@@ -106,8 +106,8 @@
 
 
 .img2 img{
-    width:25%;
-    border-radius: 50%;
+    width:50%;
+    border-radius: 30%;
     margin: auto;
 }
 .body{
@@ -116,6 +116,7 @@
 
 .img{
     width: 150px;
+    height: 100px;
 }
 /*******************************/
 /******** Portfolio CSS ********/
